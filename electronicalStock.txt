@@ -1,0 +1,3 @@
+Apple;Microchip;chips;50;applet;amon;202 Pine St, CityE, StateE ZIP43210
+airchips;Motherboard;microchips;500;supply;amon;101 Maple St, CityD, StateD ZIP98765
+apple;Microchip;chips;50;asp;amon;789 Oak St, CityC, StateC ZIP54321

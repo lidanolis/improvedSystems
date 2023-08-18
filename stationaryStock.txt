@@ -1,0 +1,3 @@
+Crayola;BrushSet;A new Set of Crayons;10;Crayola;Eamon;123 Main St, CityA, StateA ZIP12345
+crayola;CrayonSet;apple;50;she;Eamon;789 Oak St, CityC, StateC ZIP54321
+fable caster;BrushSet;castle;2;10;Eamon;456 Elm St, CityB, StateB ZIP67890

@@ -1,0 +1,4 @@
+Eamon;chin;Employee;Stationary
+amon;chin;Employee;Electronical
+Careen;chin;Admin;Stationary
+Jordan;chin;Admin;Electronical
